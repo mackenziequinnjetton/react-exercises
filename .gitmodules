@@ -1,3 +1,6 @@
 [submodule "tic-tac-toe"]
 	path = tic-tac-toe
 	url = https://github.com/mackenziequinnjetton/tic-tac-toe
+[submodule "vanilla-tilt-toy-app"]
+	path = vanilla-tilt-toy-app
+	url = https://github.com/mackenziequinnjetton/vanilla-tilt-toy-app.git

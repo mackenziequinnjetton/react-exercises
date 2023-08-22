@@ -4,3 +4,6 @@
 [submodule "vanilla-tilt-toy-app"]
 	path = vanilla-tilt-toy-app
 	url = https://github.com/mackenziequinnjetton/vanilla-tilt-toy-app.git
+[submodule "fetching-pokemon"]
+	path = fetching-pokemon
+	url = https://github.com/mackenziequinnjetton/fetching-pokemon
